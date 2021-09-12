@@ -6,5 +6,5 @@ permalink: /LINKS/
 1. [**Mastering Markdown**](https://guides.github.com/features/mastering-markdown/)  
    For learning how to markdown language.  
    
-Go [**back**]()
+Go [**back**](index.md)
      
